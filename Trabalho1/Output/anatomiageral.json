@@ -1,0 +1,1937 @@
+{
+    "anatomia": {
+        "descricao": ""
+    },
+    "geral": {
+        "descricao": ""
+    },
+    "cabeça": {
+        "descricao": ""
+    },
+    "fronte": {
+        "descricao": "Testa"
+    },
+    "occipital": {
+        "descricao": "Pertencente ao occipício (nuca); situado em direção ao occipício (nuca)"
+    },
+    "têmpora": {
+        "descricao": ""
+    },
+    "orelha": {
+        "descricao": ""
+    },
+    "face": {
+        "descricao": ""
+    },
+    "olho": {
+        "descricao": ""
+    },
+    "bochecha": {
+        "descricao": ""
+    },
+    "nariz": {
+        "descricao": ""
+    },
+    "boca": {
+        "descricao": ""
+    },
+    "mento": {
+        "descricao": ""
+    },
+    "pescoço": {
+        "descricao": "Seu limite superior passa por uma linha ao longo da margem inferior da mandíbula, processo mastóide, linha nucal superior, até a protuberância occipital externa; seu limite inferior estende-se da margem superior do manúbrio do esterno, ao longo da clavícula, ao acrômio e à espinha da escápula, até o processo espinhoso de "
+    },
+    "tronco": {
+        "descricao": ""
+    },
+    "tórax": {
+        "descricao": "Parte do tronco, entre o pescoço e o abdome. Sua estrutura básica é a caixa torácica. Seu limite inferior é a abertura torácica inferior e o diafragma"
+    },
+    "peito": {
+        "descricao": ""
+    },
+    "abdome": {
+        "descricao": "Parte do tronco entre o tórax, a margem superior do sacro, o ligamento inguinal e a sínfi se púbica"
+    },
+    "pelve": {
+        "descricao": "Parte do tronco entre o abdome e o soalho da pelve. A pelve maior e a pelve menor são separadas pela linha terminal"
+    },
+    "dorso": {
+        "descricao": "Parte posterior do tronco"
+    },
+    "membro superior": {
+        "descricao": "Constituído pelo cíngulo do membro superior e pela extremidade livre"
+    },
+    "cíngulo do membro superior": {
+        "descricao": "Sua estrutura óssea básica é formada pela escápula e pela clavícula"
+    },
+    "axila": {
+        "descricao": "Cavidade axilar. Espaço de união entre o membro superior e a parede lateral do tórax"
+    },
+    "braço": {
+        "descricao": ""
+    },
+    "cotovelo": {
+        "descricao": ""
+    },
+    "antebraço": {
+        "descricao": ""
+    },
+    "mão": {
+        "descricao": ""
+    },
+    "carpo": {
+        "descricao": ""
+    },
+    "metacarpo": {
+        "descricao": ""
+    },
+    "palma": {
+        "descricao": "Face palmar da mão"
+    },
+    "dorso da mão": {
+        "descricao": ""
+    },
+    "dedos da mão": {
+        "descricao": ""
+    },
+    "membro inferior": {
+        "descricao": "Constituído pelo cíngulo do membro inferior e pela extremidade livre"
+    },
+    "cíngulo do membro inferior": {
+        "descricao": "Sua estrutura óssea básica é formada pelo osso do quadril"
+    },
+    "nádegas": {
+        "descricao": ""
+    },
+    "quadril": {
+        "descricao": "Região de união da pelve com a extremidade livre do membro inferior"
+    },
+    "fêmur": {
+        "descricao": ""
+    },
+    "joelho": {
+        "descricao": ""
+    },
+    "região poplítea": {
+        "descricao": "Fossa superfi cial do joelho"
+    },
+    "perna": {
+        "descricao": ""
+    },
+    "sura": {
+        "descricao": "Panturrilha"
+    },
+    "pé": {
+        "descricao": ""
+    },
+    "tarso": {
+        "descricao": ""
+    },
+    "calcanhar": {
+        "descricao": ""
+    },
+    "metatarso": {
+        "descricao": ""
+    },
+    "planta": {
+        "descricao": "Região da planta do pé"
+    },
+    "dorso do pé": {
+        "descricao": "Região do dorso do pé"
+    },
+    "dedos do pé": {
+        "descricao": ""
+    },
+    "cavidades": {
+        "descricao": ""
+    },
+    "cavidade do crânio": {
+        "descricao": ""
+    },
+    "cavidade torácica": {
+        "descricao": ""
+    },
+    "cavidade abdominopélvica": {
+        "descricao": "Cavidade conjunta do abdome e da pelve"
+    },
+    "cavidade abdominal": {
+        "descricao": ""
+    },
+    "cavidade pélvica": {
+        "descricao": ""
+    },
+    "dicionário ilustrado de anatomia de feneis": {
+        "descricao": ""
+    },
+    "vertical": {
+        "descricao": ""
+    },
+    "horizontal": {
+        "descricao": ""
+    },
+    "mediano": {
+        "descricao": "Situado no plano mediano"
+    },
+    "coronal": {
+        "descricao": "Situado no plano da sutura coronal"
+    },
+    "sagital": {
+        "descricao": "Situado no plano da sutura sagital, ou situado em direção dorsal-ventral"
+    },
+    "direito": {
+        "descricao": ""
+    },
+    "esquerdo": {
+        "descricao": ""
+    },
+    "intermédio": {
+        "descricao": "Situado entre duas estruturas"
+    },
+    "medial": {
+        "descricao": "Situado próximo do plano mediano"
+    },
+    "lateral": {
+        "descricao": "Situado afastado do plano mediano"
+    },
+    "anterior": {
+        "descricao": "Situado à frente de"
+    },
+    "posterior": {
+        "descricao": "Situado atrás de"
+    },
+    "ventral": {
+        "descricao": "Situado em direção ao ventre"
+    },
+    "dorsal": {
+        "descricao": "Situado em direção ao dorso"
+    },
+    "frontal": {
+        "descricao": "Pertencente à fronte (testa); situado paralelamente à fronte (testa)"
+    },
+    "superior": {
+        "descricao": "Situado em direção à cabeça"
+    },
+    "inferior": {
+        "descricao": "Situado em direção à cauda (cóccix)"
+    },
+    "cranial": {
+        "descricao": "Pertencente ao crânio; situado em direção do crânio"
+    },
+    "caudal": {
+        "descricao": "Situado em direção à cauda"
+    },
+    "rostral": {
+        "descricao": "Situado em direção ao rostro do corpo caloso"
+    },
+    "apical": {
+        "descricao": "Pertencente ao ápice; em direção ao ápice"
+    },
+    "basal": {
+        "descricao": "Pertencente à base; em direção à base"
+    },
+    "basilar": {
+        "descricao": "Pertencente à base do crânio; em direção à base do crânio"
+    },
+    "médio": {
+        "descricao": "Meio; situado entre (no meio de) duas estruturas"
+    },
+    "transverso": {
+        "descricao": ""
+    },
+    "transversal": {
+        "descricao": "Situado transversalmente"
+    },
+    "longitudinal": {
+        "descricao": "Situado longitudinalmente"
+    },
+    "axial": {
+        "descricao": "Situado na direção de um eixo. Pertencente ao áxis, a segunda vértebra cervical"
+    },
+    "externo": {
+        "descricao": "Situado em direção ao lado de fora; exterior"
+    },
+    "interno": {
+        "descricao": "Situado em direção ao lado de dentro; interior"
+    },
+    "luminal": {
+        "descricao": "Pertencente ao lume (vaso); situado em direção ao lume (vaso)"
+    },
+    "superﬁ cial": {
+        "descricao": "Situado na superfície"
+    },
+    "profundo": {
+        "descricao": "Situado na profundidade"
+    },
+    "proximal": {
+        "descricao": "Situado próximo do tronco"
+    },
+    "distal": {
+        "descricao": "Situado afastado do tronco"
+    },
+    "central": {
+        "descricao": "Situado no ponto médio"
+    },
+    "periférico": {
+        "descricao": "Situado afastado do centro"
+    },
+    "radial": {
+        "descricao": "Pertencente ao rádio; situado em direção ao rádio"
+    },
+    "ulnar": {
+        "descricao": "Pertencente à ulna; situado em direção à ulna"
+    },
+    "fibular": {
+        "descricao": "Pertencente à fíbula; situado em direção à fíbula"
+    },
+    "tibial": {
+        "descricao": "Pertencente à tíbia; situado em direção à tíbia"
+    },
+    "palmar": {
+        "descricao": "Pertencente à palma; situado em direção à palma"
+    },
+    "plantar": {
+        "descricao": "Pertencente à planta; situado em direção à planta"
+    },
+    "flexor": {
+        "descricao": ""
+    },
+    "extensor": {
+        "descricao": ""
+    },
+    "linha mediana anterior": {
+        "descricao": "Linha vertical mediana através do tronco"
+    },
+    "linha esternal": {
+        "descricao": "Situada na margem lateral do esterno"
+    },
+    "linha paraesternal": {
+        "descricao": "Linha vertical entre a linha esternal e a linha medioclavicular"
+    },
+    "linha medioclavicular": {
+        "descricao": "Linha vertical através do ponto médio da clavícula"
+    },
+    "linha mamilar": {
+        "descricao": "O mesmo que linha medioclavicular"
+    },
+    "linha axilar anterior": {
+        "descricao": "Situada na prega axilar anterior"
+    },
+    "linha axilar média": {
+        "descricao": "Situada no centro da axila, entre a linha axilar anterior e a linha axilar posterior"
+    },
+    "linha axilar posterior": {
+        "descricao": "Situada na prega axilar posterior"
+    },
+    "linha escapular": {
+        "descricao": "Linha vertical através do ângulo inferior da escápula"
+    },
+    "linha paravertebral": {
+        "descricao": "Linha vertical através das extremidades dos processos transversos, visível apenas em radiografi as"
+    },
+    "linha mediana posterior": {
+        "descricao": "Linha vertical mediana através do tronco"
+    },
+    "planos frontais": {
+        "descricao": "Situados paralelamente à superfície da fronte (testa), perpendiculares ao plano mediano e a um plano horizontal"
+    },
+    "planos horizontais": {
+        "descricao": "Planos transversais situados perpendicularmente ao plano mediano e a um plano frontal"
+    },
+    "planos sagitais": {
+        "descricao": "Planos paralelos à sutura sagital, situados perpendicularmente aos planos frontal e horizontal"
+    },
+    "plano mediano": {
+        "descricao": "Plano sagital mediano ou plano de simetria. Este plano divide o corpo humano em duas metades iguais"
+    },
+    "planos paramedianos": {
+        "descricao": "Situam-se paralelamente ao plano mediano. Aoutra, posterior ou inferior"
+    },
+    "planos no crânio": {
+        "descricao": "Direções de orientaçãoLinhas de orientação na partesuperior do corpo"
+    },
+    "planos transversos": {
+        "descricao": "Planos horizontais. Planos horizontais especiais são descritos a seguir"
+    },
+    "plano transpilórico": {
+        "descricao": "Plano transverso através do ponto médio da distância entre a margem superior da sínfi se púbica e a margem superior do manúbrio do esterno"
+    },
+    "plano subcostal": {
+        "descricao": "Plano transverso através da margem inferior da décima cartilagem costal"
+    },
+    "plano supracristal": {
+        "descricao": "Plano transverso através do ponto mais superior das cristas ilíacas. Atravessa a coluna vertebral na altura do processo espinhoso da quarta vértebra lombar"
+    },
+    "plano intertubercular": {
+        "descricao": "Plano transverso através dos tubérculos ilíacos"
+    },
+    "plano interespinal": {
+        "descricao": "Plano transverso através das espinhas ilíacas ântero-superiores"
+    },
+    "regiões da cabeça": {
+        "descricao": "Regiões topográfi cas da cabeça"
+    },
+    "região frontal": {
+        "descricao": "Região da fronte (testa)"
+    },
+    "região parietal": {
+        "descricao": "Região sobre o osso parietal"
+    },
+    "região occipital": {
+        "descricao": "Região sobre o osso occipital"
+    },
+    "região temporal": {
+        "descricao": "Região sobre o osso temporal"
+    },
+    "região auricular": {
+        "descricao": "Região da orelha"
+    },
+    "região mastóidea": {
+        "descricao": "Região sobre o processo mastóideo"
+    },
+    "região facial": {
+        "descricao": "Região da face"
+    },
+    "sulco suprapalpebral": {
+        "descricao": "Sulco acima da pálpebra superior"
+    },
+    "região orbital": {
+        "descricao": "Região que envolve a órbita"
+    },
+    "sulco infrapalpebral": {
+        "descricao": "Sulco abaixo da pálpebra inferior"
+    },
+    "região infra-orbital": {
+        "descricao": "Região abaixo da órbita"
+    },
+    "região da bochecha": {
+        "descricao": "Região da bochecha"
+    },
+    "região parotideomassetérica": {
+        "descricao": "Região sobre a glândula parótida e o  masseter"
+    },
+    "fossa retromandibular": {
+        "descricao": "Ao longo do ramo da mandíbula, estende-se de medial para posterior até a articulação temporomandibular. Contém a glândula parótida e as veias"
+    },
+    "região zigomática": {
+        "descricao": "Região sobre o zigomático"
+    },
+    "região nasal": {
+        "descricao": "Região que envolve o nariz"
+    },
+    "sulco nasolabial": {
+        "descricao": "Sulco da asa do nariz até o ângulo da boca"
+    },
+    "região oral": {
+        "descricao": "Região ao redor da rima da boca"
+    },
+    "sulco mentolabial": {
+        "descricao": "Sulco entre o lábio inferior e o queixo"
+    },
+    "região mentual": {
+        "descricao": "Região do queixo"
+    },
+    "regiões cervicais": {
+        "descricao": "Regiões topográfi cas do pescoço"
+    },
+    "região cervical anterior (trígono cervical anterior)": {
+        "descricao": "Trígono entre a linha mediana do pescoço, a margem anterior do  esternocleidomastóideo e a margem da base da mandíbula"
+    },
+    "trígono submandibular": {
+        "descricao": "Trígono entre os ventres do  digástrico e a margem da base da mandíbula"
+    },
+    "trígono carótico": {
+        "descricao": "Trígono entre o  esternocleidomastóideo, o ventre posterior do  digástrico e o ventre superior do  omo-hióideo"
+    },
+    "trígono muscular": {
+        "descricao": "Trígono entre a linha mediana do pescoço, a margem anterior do  esternocleidomastóideo e o ventre superior do  omohióideo"
+    },
+    "trígono submentual": {
+        "descricao": "Trígono abaixo do queixo, entre o hióide e o ventre anterior de ambos os  digástricos"
+    },
+    "região esternocleidomastóidea": {
+        "descricao": "Região sobre o  esternocleidomastóideo"
+    },
+    "fossa supraclavicular menor": {
+        "descricao": "Depressão entre as origens esternal e clavicular do  esternocleidomastóideo"
+    },
+    "região cervical lateral (trígono cervical lateral)": {
+        "descricao": "Trígono entre a clavícula, a margem anterior do  trapézio e a margem posterior do  esternocleidomastóideo"
+    },
+    "trígono omoclavicular": {
+        "descricao": "Trígono entre a clavícula, a margem posterior do  esternocleidomastóideo e o ventre inferior do  omo-hióideo"
+    },
+    "fossa supraclavicular maior": {
+        "descricao": "Depressão cutânea sobre o trígono omoclavicular"
+    },
+    "região cervical posterior": {
+        "descricao": "A região da nuca (região posterior do pescoço)"
+    },
+    "planos de orientação": {
+        "descricao": "no tronco Regiões da cabeça e da nucaRegiões da cabeça e do pescoço"
+    },
+    "regiões torácicas anteriores e laterais": {
+        "descricao": ""
+    },
+    "região pré-esternal": {
+        "descricao": "Região anterior ao esterno"
+    },
+    "fossa infraclavicular": {
+        "descricao": "Fossa de Morenheim. De pressão cutânea sobre o trígono clavipeitoral"
+    },
+    "trígono clavipeitoral": {
+        "descricao": "Trígono entre os músculos deltóide, peitoral maior e a clavícula"
+    },
+    "região peitoral": {
+        "descricao": "Região sobre o músculo peitoral maior"
+    },
+    "região peitoral lateral": {
+        "descricao": "Parte lateral das regiões mamária e inframamária"
+    },
+    "região mamária": {
+        "descricao": "Região que compreende a glândula mamária"
+    },
+    "região inframamária": {
+        "descricao": "Região abaixo da região mamária"
+    },
+    "região axilar": {
+        "descricao": "Região entre as duas pregas axilares"
+    },
+    "fossa axilar": {
+        "descricao": "Fossa central da axila"
+    },
+    "regiões abdominais": {
+        "descricao": ""
+    },
+    "hipocôndrio": {
+        "descricao": "Região lateral à linha medioclavicular, entre a região peitoral e o plano subcostal"
+    },
+    "epigástrio (fossa epigástrica)": {
+        "descricao": "Região abaixo das regiões peitorais, entre as duas linhas medioclaviculares e o plano subcostal"
+    },
+    "região lateral": {
+        "descricao": "Região lateral à linha medioclavicular, entre o plano subcostal e o plano supracristal"
+    },
+    "região umbilical (umbigo)": {
+        "descricao": "Região entre as duas linhas medioclavi culares, o plano subcostal e o plano supracristal"
+    },
+    "região inguinal": {
+        "descricao": "Região lateral à linha medioclavicular, entre o plano supracristal e o ligamento inguinal"
+    },
+    "região púbica (hipogástrio)": {
+        "descricao": "Região entre as duas linhas mediocla viculares, o plano supracristal e o liga mento inguinal"
+    },
+    "regiões dorsais": {
+        "descricao": ""
+    },
+    "região vertebral": {
+        "descricao": "Região em faixa sobre a coluna vertebral"
+    },
+    "região sacral": {
+        "descricao": "Região sobre o sacro"
+    },
+    "fovéola coccígea": {
+        "descricao": "Fosseta sobre o cóccix"
+    },
+    "região escapular": {
+        "descricao": "Região sobre a escápula"
+    },
+    "região infra-escapular": {
+        "descricao": "Região entre a região escapular e a região lombar"
+    },
+    "região lombar": {
+        "descricao": "Região entre a crista ilíaca e a região infra-escapular"
+    },
+    "região perineal": {
+        "descricao": ""
+    },
+    "região anal": {
+        "descricao": "Região ao redor do ânus. É limitada anteriormente por uma linha imaginária através dos dois túberes isquiáticos"
+    },
+    "região urogenital": {
+        "descricao": "Região perineal à frente da linha que une os dois túberes isquiáticos"
+    },
+    "regiões posteriores": {
+        "descricao": "Regiões anteriores"
+    },
+    "regiões do membro superior": {
+        "descricao": ""
+    },
+    "região deltóidea": {
+        "descricao": "Região sobre o músculo deltóide"
+    },
+    "região braquial": {
+        "descricao": "Região do braço"
+    },
+    "região braquial anterior": {
+        "descricao": "Face anterior do braço"
+    },
+    "sulco bicipital lateral": {
+        "descricao": ""
+    },
+    "sulco bicipital medial": {
+        "descricao": ""
+    },
+    "região braquial posterior": {
+        "descricao": "Face posterior do braço"
+    },
+    "região cubital": {
+        "descricao": "Região do cotovelo"
+    },
+    "região cubital anterior": {
+        "descricao": "Face anterior do cotovelo"
+    },
+    "fossa cubital": {
+        "descricao": "Fossa do cotovelo"
+    },
+    "região cubital posterior": {
+        "descricao": ".  Face posterior do cotovelo"
+    },
+    "região antebraquial": {
+        "descricao": "Região do antebraço"
+    },
+    "região antebraquial anterior": {
+        "descricao": ".  Face anterior do antebraço"
+    },
+    "região antebraquial posterior": {
+        "descricao": ".  Face posterior do ante braço"
+    },
+    "margem radial": {
+        "descricao": "Margem lateral"
+    },
+    "margem ulnar": {
+        "descricao": "Margem medial"
+    },
+    "região da mão": {
+        "descricao": ""
+    },
+    "região carpal": {
+        "descricao": "Região do punho"
+    },
+    "região carpal anterior": {
+        "descricao": "Face anterior ou fl exora do punho"
+    },
+    "região carpal posterior": {
+        "descricao": "Face posterior ou extensora do punho"
+    },
+    "região dorsal da mão": {
+        "descricao": "Região do dorso da mão"
+    },
+    "eminência tenar": {
+        "descricao": "Saliência palmar do polegar"
+    },
+    "eminência hipotenar": {
+        "descricao": "Saliência palmar do dedo mínimo"
+    },
+    "região metacarpal": {
+        "descricao": "Região da mão entre o punho e os dedos"
+    },
+    "polegar": {
+        "descricao": "O primeiro dedo da mão (I)"
+    },
+    "indicador": {
+        "descricao": "O segundo dedo da mão (II)"
+    },
+    "dedo médio": {
+        "descricao": "O terceiro dedo da mão (III)"
+    },
+    "dedo anular": {
+        "descricao": "O quarto dedo da mão (IV)"
+    },
+    "dedo mínimo": {
+        "descricao": "O quinto dedo do pé (V)"
+    },
+    "face palmar dos dedos": {
+        "descricao": "Face fl exora dos dedos da mão"
+    },
+    "face dorsal dos dedos": {
+        "descricao": "Face superior dos dedos do pé"
+    },
+    "regiões do membro inferior": {
+        "descricao": "Regiões topográfi cas do membro inferior"
+    },
+    "região glútea": {
+        "descricao": "Região sobre a musculatura glútea"
+    },
+    "fenda interglútea": {
+        "descricao": "Sulco entre as duas nádegas"
+    },
+    "sulco infraglúteo": {
+        "descricao": "Sulco que passa sobre o músculo glúteo máximo e separa as nádegas da coxa, quando a arti culação do quadril é estendida"
+    },
+    "região do quadril": {
+        "descricao": ""
+    },
+    "região da coxa": {
+        "descricao": ""
+    },
+    "região femoral anterior": {
+        "descricao": "Face anterior da coxa"
+    },
+    "trígono femoral": {
+        "descricao": "Trígono entre o ligamento inguinal, o  sartório e o  grácil"
+    },
+    "região femoral posterior": {
+        "descricao": "Face posterior da coxa"
+    },
+    "região do joelho": {
+        "descricao": ""
+    },
+    "região genicular anterior": {
+        "descricao": ". Face ante rior do joelho"
+    },
+    "região genicular posterior": {
+        "descricao": "Face pos terior do joelho"
+    },
+    "fossa poplítea": {
+        "descricao": "Cavidade posterior do joelho"
+    },
+    "região crural": {
+        "descricao": "Região da perna"
+    },
+    "região crural anterior": {
+        "descricao": "Região anterior da perna"
+    },
+    "região crural posterior": {
+        "descricao": "Região posterior da perna"
+    },
+    "região sural": {
+        "descricao": "Região da panturri lha"
+    },
+    "região talocrural anterior": {
+        "descricao": ""
+    },
+    "região talocrural posterior": {
+        "descricao": ""
+    },
+    "região retromaleolar lateral": {
+        "descricao": "Região posterior ao maléolo lateral"
+    },
+    "região retromaleolar medial": {
+        "descricao": "Região posterior ao maléolo medial.quirodáctilos para os dedos da mão"
+    },
+    "regiões do pé": {
+        "descricao": ""
+    },
+    "região calcânea": {
+        "descricao": "Calcanhar"
+    },
+    "margem lateral do pé": {
+        "descricao": "Margem fi bular"
+    },
+    "margem medial do pé": {
+        "descricao": "Margem tibial"
+    },
+    "arco longitudinal do pé": {
+        "descricao": "Arco longitudinal na margem lateral do pé. Consiste em duas partes"
+    },
+    "parte lateral": {
+        "descricao": "Estende-se da tuberosidade do calcâneo, sobre o cubóide, até a cabeça dos IV-V ossos metatarsais"
+    },
+    "parte medial": {
+        "descricao": "Estende-se da tuberosidade do calcâneo, sobre o tálus, o navicular e os três cuneiformes, até a cabeça dos I-III ossos metatarsais"
+    },
+    "arco transverso proximal do pé": {
+        "descricao": "Arco transversal na região média do pé, formado pelo navicular, cuneiformes e cubóide. Arco mais elevado abaixo dos cuneiformes I, II e III"
+    },
+    "arco transverso distal do pé": {
+        "descricao": "Arco transversal na região anterior do pé, formado pelos I-V ossos metatarsais"
+    },
+    "região tarsal": {
+        "descricao": "Anatômica: região da raiz do pé (tornozelo). Clínica: região posterior do pé, que corresponde ao tálus e calcâneo, região média do pé, com os demais ossos tarsais, e suas respectivas partes moles"
+    },
+    "região metatarsal": {
+        "descricao": "Anatômica: região média do pé. Clínica: região anterior do pé, que corresponde aos ossos metatarsais, às falanges e suas respectivas partes moles"
+    },
+    "hálux": {
+        "descricao": "O primeiro dedo do pé (I). Dedo grande do pé"
+    },
+    "segundo (ii), terceiro (iii) e quarto (iv) dedos do pé": {
+        "descricao": ""
+    },
+    "face plantar dos dedos": {
+        "descricao": "Face inferior dos dedos do pé"
+    },
+    "parte óssea": {
+        "descricao": "Parte óssea do esqueleto"
+    },
+    "substância cortical": {
+        "descricao": "Camada superfi cial formada pelas lamelas principais mais externas do osso"
+    },
+    "substância compacta": {
+        "descricao": "Substância óssea densa formada por osteônios"
+    },
+    "substância esponjosa": {
+        "descricao": "Substância óssea frouxa em cujos espaços intersticiais se situa a medula óssea"
+    },
+    "parte cartilagínea": {
+        "descricao": "Parte cartilaginosa do esqueleto"
+    },
+    "parte membranácea": {
+        "descricao": "Parte fi brosa do esqueleto"
+    },
+    "periósteo": {
+        "descricao": "Revestimento externo do osso. Consiste em duas lâminas que envolvem o tecido ósseo, a mais interna serve para a fi xação de tendões e ligamentos, e a mais externa, para o suprimento ósseo"
+    },
+    "pericôndrio": {
+        "descricao": "Revestimento externo da cartilagem. Ele estende-se sobre a cartilagem, sem limites precisos"
+    },
+    "esqueleto axial": {
+        "descricao": "Esqueleto do tronco"
+    },
+    "esqueleto apendicular": {
+        "descricao": "Esqueleto dos membros"
+    },
+    "osso longo": {
+        "descricao": "Osso longo como, por exemplo, a fíbula"
+    },
+    "osso curto": {
+        "descricao": "Osso curto como, por exemplo, os ossos carpais"
+    },
+    "osso plano": {
+        "descricao": "Osso plano como, por exemplo, o parietal"
+    },
+    "osso irregular": {
+        "descricao": "Osso complexo como, por exemplo, o esfenóide"
+    },
+    "osso pneumático": {
+        "descricao": "Osso com células aéreas como, por exemplo, o etmóide"
+    },
+    "osso sesamóide": {
+        "descricao": "Ossos inseridos em tendões ou ligamentos, para distribuir a pressão"
+    },
+    "diáﬁ se": {
+        "descricao": "Parte média do osso"
+    },
+    "epíﬁ se": {
+        "descricao": "Extremidade óssea temporariamente envolvida no cresci mento"
+    },
+    "cartilagem epiﬁ sial": {
+        "descricao": "Cartilagem hialina que reveste a parte terminal de um osso longo"
+    },
+    "lâmina epiﬁ sial": {
+        "descricao": "Zona cartilaginosa entre a diáfi se e a epífi se. Permite o crescimento longitudinal do osso"
+    },
+    "linha epiﬁ sial": {
+        "descricao": "Linha, visível em radiografi as e secções de osso, que assinala o local onde havia a cartilagem epifi sial"
+    },
+    "metáﬁ se": {
+        "descricao": "Zona de crescimento da diáfi se oposta à epífi se"
+    },
+    "apóﬁ se": {
+        "descricao": "Embriologicamente, parte de uma epífi se originada de um centro de ossifi cação próprio como, por exemplo, o trocanter maior.pododáctilos para os dedos do pé"
+    },
+    "arco transverso proximal do pé (vista anterior)": {
+        "descricao": "Arco transverso distal do pé (vista anterior)Esqueleto do pé (vista superior)"
+    },
+    "túber": {
+        "descricao": "Saliência óssea arredondada como, por exemplo, o túber isquiático"
+    },
+    "tubérculo": {
+        "descricao": "Pequena saliência óssea como, por exemplo, o tubérculo menor"
+    },
+    "tuberosidade": {
+        "descricao": "Rugosidade na superfície externa de um osso como, por exemplo, a tuberosidade massetérica"
+    },
+    "eminência": {
+        "descricao": "Saliência óssea linear como, por exemplo, a eminência cruciforme do occipital"
+    },
+    "processo": {
+        "descricao": "Projeção óssea como, por exemplo, o processo transverso"
+    },
+    "côndilo": {
+        "descricao": "Saliência articular como, por exemplo, o côndilo do úmero"
+    },
+    "epicôndilo": {
+        "descricao": "Origem óssea do côndilo como, por exemplo, o epicôndilo medial do úmero"
+    },
+    "crista": {
+        "descricao": "Faixa ou margem óssea como, por exemplo, a crista ilíaca"
+    },
+    "linha": {
+        "descricao": "Linha ou fi ta óssea como, por exemplo, a linha áspera"
+    },
+    "incisura": {
+        "descricao": "Entalhe escavado como, por exemplo, a incisura do acetábulo"
+    },
+    "fossa": {
+        "descricao": "Depressão como, por exemplo, a fossa cubital"
+    },
+    "sulco": {
+        "descricao": "Canal raso como, por exemplo, o sulco carótico"
+    },
+    "face articular": {
+        "descricao": ""
+    },
+    "cavidade medular": {
+        "descricao": ""
+    },
+    "endósteo": {
+        "descricao": "Revestimento da cavidade medular, semelhante ao periósteo"
+    },
+    "medula óssea amarela": {
+        "descricao": "Medula óssea adiposa"
+    },
+    "medula óssea vermelha": {
+        "descricao": "Medula óssea hematopoética"
+    },
+    "forame nutrício": {
+        "descricao": "Abertura do canal nutrício na superfície óssea"
+    },
+    "canal nutrício": {
+        "descricao": "Canal para os vasos que nutrem o osso"
+    },
+    "centro de ossiﬁ cação": {
+        "descricao": "Local do início da ossifi cação nos ossos de origem cartilagínea (ossifi cação endocondral)"
+    },
+    "primário": {
+        "descricao": "O início da ossifi cação em um elemento cartilagíneo como, por exemplo, na diáfi se dos ossos longos. Inicialmente, a epífi se permanece cartilagínea"
+    },
+    "secundário": {
+        "descricao": "Origina-se de um centro primário como, por exemplo, as epífi ses dos ossos longos"
+    },
+    "articulações ósseas": {
+        "descricao": ""
+    },
+    "sinartrose": {
+        "descricao": "Ligação de ossos por meio de tecido conectivo fi broso denso ou cartilagem"
+    },
+    "articulação ﬁ brosa": {
+        "descricao": "Ligação entre dois ossos, em geral por meio de tecido conectivo fi broso denso e, mais raramente, por meio de fi bras elásticas"
+    },
+    "sindesmose": {
+        "descricao": "Ligação entre dois ossos geralmente por meio de ligamentos formados por feixes paralelos de fi bras colágenas ou por tecido conectivo elástico"
+    },
+    "gonfose": {
+        "descricao": "Inserção dos dentes nos alvéolos dentais da maxila e mandíbula"
+    },
+    "membrana interóssea": {
+        "descricao": "Ligação laminar entre dois ossos por meio de tecido conectivo fi broso denso"
+    },
+    "sutura": {
+        "descricao": "Forma especial de ligação fi brosa"
+    },
+    "sutura plana": {
+        "descricao": "Ligação entre ossos resultando em uma superfície lisa como, por exemplo, a sutura zigomaticomaxilar"
+    },
+    "sutura escamosa": {
+        "descricao": "Ligação entre ossos resultando em uma superfície semelhante a uma escama como, por exemplo, no temporal"
+    },
+    "sutura limbosa": {
+        "descricao": "Forma especial de sutura escamosa com sobreposição de lâminas"
+    },
+    "sutura serrátil": {
+        "descricao": "Ligação entre ossos resultando em uma superfície semelhante a uma serra como, por exemplo, a sutura sagital"
+    },
+    "sutura denticulada": {
+        "descricao": "Ligação entre ossos resultando em uma superfície semelhante a um serrote como, por exemplo, a sutura lambdóide"
+    },
+    "esquindilese": {
+        "descricao": "Ligação entre um sulco e uma crista como, por exemplo, entre o vômer e o esfenóide"
+    },
+    "articulação cartilagínea": {
+        "descricao": "Ligação entre ossos por meio de cartilagem"
+    },
+    "sincondrose": {
+        "descricao": "Ligação entre ossos por meio de cartilagem hialina como, por exemplo, a articulação epifi sial"
+    },
+    "sínfise": {
+        "descricao": "Ligação entre extremidades ósseas, revestidas por cartilagem hialina, por meio de cartilagem fi brosa"
+    },
+    "sinostose": {
+        "descricao": "Fusão óssea entre ossos adjacentes como, por exemplo, o osso do quadril"
+    },
+    "articulação sinovial": {
+        "descricao": "Articulação entre ossos com uma cavidade articular revestida internamente"
+    },
+    "cavidade articular": {
+        "descricao": ""
+    },
+    "fossa articular": {
+        "descricao": ""
+    },
+    "cabeça articular": {
+        "descricao": ""
+    },
+    "lábio articular": {
+        "descricao": "Faixa de cartilagem fi brosa  na margem de uma articulação esferóide"
+    },
+    "cápsula articular": {
+        "descricao": ""
+    },
+    "membrana ﬁ brosa": {
+        "descricao": "Camada de tecido conectivo capsular, freqüentemente reforçada por ligamentos"
+    },
+    "membrana sinovial": {
+        "descricao": "Camada interna da cápsula articular. Conexão epitelióide com dois tipos de células, sem membrana basal, sobre um tecido conectivo frouxo contendo vasos, nervos e células adiposas"
+    },
+    "prega sinovial": {
+        "descricao": "Dobra de membrana sinovial que se estende para o interior do espaço articular"
+    },
+    "vilosidades sinoviais": {
+        "descricao": ""
+    },
+    "sinóvia": {
+        "descricao": "Líquido articular secretado pela membrana sinovial"
+    },
+    "disco articular": {
+        "descricao": "Estrutura que divi de a cavidade articular em duas câmaras separadas"
+    },
+    "menisco articular": {
+        "descricao": "Disco articular em forma de anel como, por exemplo, na articulação do joelho"
+    },
+    "ligamentos": {
+        "descricao": ""
+    },
+    "ligamentos intracapsulares": {
+        "descricao": "Ligamentos localizados no interior do espaço articular como, por exemplo, os ligamentos cruza dos da articulação do joelho"
+    },
+    "ligamentos capsulares": {
+        "descricao": "Ligamentos de reforço situados na parte externa da cápsula articular como, por exemplo, os ligamentos colaterais das articulações interfalângicas"
+    },
+    "ligamentos extracapsulares": {
+        "descricao": "Ligamentos que se situam por fora da parede da cápsula como, por exemplo, o ligamento colateral fi bular da articulação do joelho"
+    },
+    "recesso articular": {
+        "descricao": "Evaginações do espaço articular como, por exemplo, o recesso subpoplíteo"
+    },
+    "articulação simples": {
+        "descricao": "Articulação elementar somente entre dois ossos como, por exemplo, a articulação do quadril"
+    },
+    "articulação composta": {
+        "descricao": "Articulação  envolvendo mais de dois os sos como, por exemplo, a articulação radiocarpal"
+    },
+    "articulação plana": {
+        "descricao": "Articulação com faces articulares quase lisas como, por exemplo, as articulações dos processos articulares (coluna vertebral)"
+    },
+    "articulação cilíndrica": {
+        "descricao": "Termo genérico que, segundo o eixo de rotação, abrange as articulações descritas a seguir"
+    },
+    "articulação trocóidea": {
+        "descricao": "Articulação em pivô como, por exemplo, a articulação radiulnar proximal e a articulação radiulnar distal"
+    },
+    "gínglimo": {
+        "descricao": "Articulação em dobradiça como, por exemplo, a articulação umeroulnar"
+    },
+    "articulação bicondilar": {
+        "descricao": "Articulação com um eixo principal transversal e um eixo secundário longitudinal acompanhando uma parte do esqueleto como, por exemplo, a articulação do joelho"
+    },
+    "articulação selar": {
+        "descricao": "Arti culação com dois eixos como, por exemplo, a articulação metacarpofalângica do polegar"
+    },
+    "articulação elipsóidea": {
+        "descricao": "Articulação com dois eixos como, por exemplo, a arti culação da mão"
+    },
+    "articulação esferóidea": {
+        "descricao": "Articulação com vários eixos como, por exemplo, a articula ção do ombro"
+    },
+    "articulação cotílica": {
+        "descricao": "Articulação esferóidea especial como, por exemplo, a articulação do quadril"
+    },
+    "anﬁ artrose": {
+        "descricao": "Articulação pouco móvel devido a uma cápsula articular e ligamentos mais tensos como, por exemplo, a articulação sacroilíaca"
+    },
+    "abdução": {
+        "descricao": "Movimento em direção lateral, afastando-se do corpo"
+    },
+    "adução": {
+        "descricao": "Movimento em direção medial, aproximando-se do corpo"
+    },
+    "rotação lateral": {
+        "descricao": "Movimento de rotação em direção externa ao redor de um eixo longitudinal"
+    },
+    "rotação medial": {
+        "descricao": "Movimento de rotação em direção interna ao redor de um eixo longitudinal"
+    },
+    "circundução": {
+        "descricao": "Movimento circular como, por exemplo, do braço na articulação do ombro"
+    },
+    "flexão": {
+        "descricao": "Flexão (curvatura) do tronco ou dos membros"
+    },
+    "extensão": {
+        "descricao": "Extensão (estiramento) do tronco ou dos membros"
+    },
+    "pronação": {
+        "descricao": "Movimento de rotação do antebraço de tal maneira que o dorso da mão se direciona superiormente. Elevação da margem lateral do pé"
+    },
+    "supinação": {
+        "descricao": "Movimento de rotação do antebraço de tal maneira que a palma se direciona superiormente. Elevação da margem medial do pé"
+    },
+    "oposição": {
+        "descricao": "Movimento que direciona o polegar contra os demais dedos. Restrito também ao dedo mínimo"
+    },
+    "reposição": {
+        "descricao": "Movimento de retorno à posição ou situação de partida"
+    },
+    "ventre": {
+        "descricao": ""
+    },
+    "inserção": {
+        "descricao": "Fixação de um músculo"
+    },
+    "origem": {
+        "descricao": "Início de um músculo"
+    },
+    "ponto ﬁ xo": {
+        "descricao": "Elemento esquelético imóvel"
+    },
+    "ponto móvel": {
+        "descricao": "Elemento esquelético móvel"
+    },
+    "músculo fusiforme": {
+        "descricao": "Músculo em forma de fuso"
+    },
+    "músculo plano": {
+        "descricao": "Músculo em forma de lâmina"
+    },
+    "músculo reto": {
+        "descricao": "Músculo longitudinal"
+    },
+    "músculo triangular": {
+        "descricao": "Músculo em forma de triângulo"
+    },
+    "músculo quadrado": {
+        "descricao": "Músculo em forma retangular"
+    },
+    "músculo biventre": {
+        "descricao": ""
+    },
+    "músculo com dois ventres": {
+        "descricao": ""
+    },
+    "músculo bíceps": {
+        "descricao": "Músculo com duas cabeças"
+    },
+    "músculo tríceps": {
+        "descricao": "Músculo com três cabeças"
+    },
+    "músculo quadríceps": {
+        "descricao": "Músculo com quatro cabeças.logia Anatômica Internacional, não foram traduzidos para a língua portuguesa"
+    },
+    "músculo semipeniforme": {
+        "descricao": "Músculo em forma de meia pena (fi bras musculares fi xadas em um dos lados do tendão)"
+    },
+    "músculo peniforme": {
+        "descricao": "Mús culo em forma de pena (fi bras musculares fi xadas nos dois lados do tendão)"
+    },
+    "músculo multipeniforme": {
+        "descricao": "Músculo em forma de leque (fi bras musculares fi xadas em vários lados do tendão)"
+    },
+    "músculo orbicular": {
+        "descricao": "Músculo em forma circular"
+    },
+    "músculo cutâneo": {
+        "descricao": "Músculo dérmico (fi xado na pele)"
+    },
+    "músculo abdutor": {
+        "descricao": "Músculo que causa abdução"
+    },
+    "músculo adutor": {
+        "descricao": "Músculo que causa adução"
+    },
+    "músculo rotador": {
+        "descricao": "Músculo que causa rotação"
+    },
+    "músculo ﬂ exor": {
+        "descricao": "Músculo que causa fl exão"
+    },
+    "músculo extensor": {
+        "descricao": "Músculo que causa extensão"
+    },
+    "músculo pronador": {
+        "descricao": "Músculo que causa pronação"
+    },
+    "músculo supinador": {
+        "descricao": "Músculo que causa supinação"
+    },
+    "músculo oponente": {
+        "descricao": "Músculo que causa oposição"
+    },
+    "músculo esﬁ ncter": {
+        "descricao": "Músculo que causa constrição"
+    },
+    "músculo dilatador": {
+        "descricao": "Músculo que causa dilatação"
+    },
+    "compartimento": {
+        "descricao": "Espaço envolvido por fáscia. Geralmente inclui grupos musculares e está limitado por estruturas osteofi brosas"
+    },
+    "fáscia": {
+        "descricao": "Termo genérico para toda condensação externa de tecido conectivo, que também recobre e pode dar forma"
+    },
+    "fáscia da cabeça e do pescoço": {
+        "descricao": ""
+    },
+    "fáscia do tronco": {
+        "descricao": "Integra os cinco tipos de fáscia descritos a seguir"
+    },
+    "fáscia parietal": {
+        "descricao": "Termo genérico para o tecido conectivo que, situado sob a lâmina parietal de uma serosa, reveste a parede de uma cavidade corporal. Pode se desenvolver como uma estrutura própria como, por exemplo, a fáscia endotorácica"
+    },
+    "fáscia extra-serosal": {
+        "descricao": "Termo genérico para toda estrutura de tecido conectivo que se situa internamente à fáscia parietal e externamente à fáscia visceral. Aparece geralmente na pelve como ligamentos como, por exemplo, o ligamento transverso do colo do útero"
+    },
+    "fáscia visceral": {
+        "descricao": "Termo genérico para o tecido conectivo que se situa diretamente sob a lâmina visceral de uma serosa. Pode também constituir uma parte distinta da tela subserosa como, por exemplo, se contiver tecido adiposo"
+    },
+    "fáscia dos membros": {
+        "descricao": ""
+    },
+    "fáscia dos músculos": {
+        "descricao": ""
+    },
+    "fáscia de revestimento": {
+        "descricao": "Pode também revestir um grupo muscular. O termo também é usado para o epimísio"
+    },
+    "fáscia própria do músculo": {
+        "descricao": ""
+    },
+    "epimísio": {
+        "descricao": "Tecido conectivo que envolve a superfície de um músculo"
+    },
+    "perimísio": {
+        "descricao": "Tecido conectivo que envolve feixes de fi bras musculares"
+    },
+    "endomísio": {
+        "descricao": "Tecido conectivo que envolve uma fi bra muscular isolada, a qual está acondicionada pelo sarcolema"
+    },
+    "tendão": {
+        "descricao": ""
+    },
+    "tendão intermédio": {
+        "descricao": ""
+    },
+    "interseção tendínea": {
+        "descricao": "Tendão intermédio do  reto do abdome"
+    },
+    "aponeurose": {
+        "descricao": "Tendão plano"
+    },
+    "arco tendíneo": {
+        "descricao": "Serve como origem de fi bras musculares"
+    },
+    "tróclea muscular": {
+        "descricao": "Es trutura que desvia um tendão, alterando sua direção de tração como, por exemplo, o sustentáculo do tálus para o ten dão do músculo fl exor longo do hálux"
+    },
+    "bolsa sinovial": {
+        "descricao": "Saco com líquido sinovial que permite o movimento de deslizamento de um músculo sobre (ou ao redor de) um osso"
+    },
+    "bolsa subcutânea": {
+        "descricao": "Bolsa sinovial situada diretamente sob a pele"
+    },
+    "bolsa submuscular": {
+        "descricao": "Bolsa sinovial situada sob um músculo"
+    },
+    "bolsa subfascial": {
+        "descricao": "Bolsa sinovial situada sob uma fáscia"
+    },
+    "bolsa subtendínea": {
+        "descricao": "Bolsa sinovial situada sob um tendão"
+    },
+    "bainha do tendão": {
+        "descricao": ""
+    },
+    "estrato ﬁ broso": {
+        "descricao": "Parte fi brosa da bainha do tendão"
+    },
+    "estrato sinovial": {
+        "descricao": "Camada interna isolada, lubrifi cante, da bainha do tendão"
+    },
+    "mesotendão": {
+        "descricao": "Ligação semelhan te ao mesentério entre o tendão e sua bai nha. Transporta vasos sanguíneos"
+    },
+    "bainha": {
+        "descricao": ""
+    },
+    "sinovial": {
+        "descricao": ""
+    },
+    "vaso sangüíneo": {
+        "descricao": ""
+    },
+    "anastomose arteriolovenular": {
+        "descricao": "Ligação transversal entre uma arteríola e uma vênula"
+    },
+    "artéria": {
+        "descricao": ""
+    },
+    "artéria nutrícia": {
+        "descricao": "Arté ria para o suprimento tecidual"
+    },
+    "arteríola": {
+        "descricao": "Pequena artéria diretamente antes do capilar"
+    },
+    "círculo arterial": {
+        "descricao": "Ligação circular de artérias"
+    },
+    "círculo vascular": {
+        "descricao": "Ligação circular de vasos"
+    },
+    "cisterna": {
+        "descricao": "Dilatação de um vaso lin fático"
+    },
+    "sangue": {
+        "descricao": ""
+    },
+    "plexo vascular": {
+        "descricao": "Rede de vasos com fi bras nervosas sensitivas e viscerais"
+    },
+    "plexo venoso": {
+        "descricao": "Rede de veias"
+    },
+    "plexo arterial": {
+        "descricao": "Rede de artérias"
+    },
+    "rede admirável": {
+        "descricao": ""
+    },
+    "plexo vascular articular": {
+        "descricao": "Rede de vasos sanguíneos ao redor de uma articu lação como, por exemplo, a rede articular do joelho"
+    },
+    "rede venosa": {
+        "descricao": "Rede de veias"
+    },
+    "seio venoso": {
+        "descricao": "Segmento veno so sem parede típica como, por exemplo, o seio sagital"
+    },
+    "túnica externa": {
+        "descricao": "Camada externa da parede de um vaso"
+    },
+    "túnica íntima": {
+        "descricao": "Camada interna da parede de um vaso"
+    },
+    "túnica média": {
+        "descricao": "Ca mada média da parede de um vaso"
+    },
+    "valva": {
+        "descricao": "Como, por exemplo, a valva atrioventricular esquerda"
+    },
+    "válvula": {
+        "descricao": "Pequena valva. Lâmina em forma semilunar de um sistema valvar como, por exemplo, as válvula semilunares"
+    },
+    "cúspide": {
+        "descricao": "Lâmina pontiaguda de um sistema valvar como, por exemplo, a cúspide anterior"
+    },
+    "válvula venosa": {
+        "descricao": "Válvula de uma veia"
+    },
+    "vaso anastomótico": {
+        "descricao": "Vaso transversal de ligação"
+    },
+    "vaso capilar": {
+        "descricao": ""
+    },
+    "vaso colateral": {
+        "descricao": "Vaso que se desvia do vaso original"
+    },
+    "vaso sinusóide": {
+        "descricao": "Segmento especial de um vaso, de parede fi na e grande lume"
+    },
+    "vasos dos vasos": {
+        "descricao": "Vasos sanguí neos que suprem a parede do vaso"
+    },
+    "vasos dos nervos": {
+        "descricao": "Vasos que suprem o nervo"
+    },
+    "veia": {
+        "descricao": ""
+    },
+    "veia acompanhante": {
+        "descricao": "Seu trajeto a liga funcionalmente a uma artéria"
+    },
+    "veia cutânea": {
+        "descricao": "Veia da pele"
+    },
+    "veia emissária": {
+        "descricao": "Veia que, atravessando os ossos, se direciona para fora do crânio"
+    },
+    "veia nutrícia": {
+        "descricao": "Vaso para o suprimento tecidual"
+    },
+    "veia profunda": {
+        "descricao": "Veia situada sob a fáscia"
+    },
+    "veia superﬁ cial": {
+        "descricao": "Veia da pele que se situa sobre a fáscia dos mem bros"
+    },
+    "vênula": {
+        "descricao": "Pequena veia diretamente após o capilar"
+    },
+    "vaso linfático": {
+        "descricao": ""
+    },
+    "vaso linfático superﬁ cial": {
+        "descricao": "Vaso linfático que se situa sobre a fáscia dos membros"
+    },
+    "vaso linfático profundo": {
+        "descricao": "Vaso linfático que se situa sob a fáscia dos membros e geralmente tem curso com os vasos sangüíneos"
+    },
+    "plexo linfático": {
+        "descricao": "Rede profunda de capilares linfáticos como, por exemplo, na derme da pele e sob ela"
+    },
+    "válvula linfática": {
+        "descricao": "Válvula de um vaso linfático"
+    },
+    "linfa": {
+        "descricao": ""
+    },
+    "capilar linfático": {
+        "descricao": "Sua extremidade inicial é fechada, e sua parede é permeável"
+    },
+    "rede linfática": {
+        "descricao": "Rede de capilares linfáticos perto de sua origem"
+    },
+    "neuroﬁ bra": {
+        "descricao": "Fibra nervosa (axônio)"
+    },
+    "neurônio": {
+        "descricao": "Célula nervosa"
+    },
+    "pericário": {
+        "descricao": "Corpo celular do neurônio"
+    },
+    "sinapse": {
+        "descricao": "Local de contato de uma célula nervosa com outra célula nervosa ou com outro tipo de célula"
+    },
+    "neuróglia": {
+        "descricao": "Tecido intersticial do sistema nervoso"
+    },
+    "substância cinzenta": {
+        "descricao": "O conjunto das células nervosas"
+    },
+    "núcleo": {
+        "descricao": "Acúmulo de neurônios fora do córtex"
+    },
+    "núcleo dos nervos cranianos": {
+        "descricao": ""
+    },
+    "núcleo de origem": {
+        "descricao": ""
+    },
+    "núcleo de terminação": {
+        "descricao": ""
+    },
+    "coluna": {
+        "descricao": "Acúmulo de neurônios em forma de coluna como, por exemplo, na medula espinal"
+    },
+    "lâmina": {
+        "descricao": "Camada de tecido nervoso em forma de placa como, por exemplo, os estratos do isocórtex (lâminas do neocórtex).termo foi retirado e seu signifi cado foi incorporado ao termo válvula, passando as cúspides a se chamarem também válvulas"
+    },
+    "substância branca": {
+        "descricao": "Conjunto das fi bras nervosas mielínicas"
+    },
+    "funículo": {
+        "descricao": "Estrutura de tecido nervoso em forma tubular. Via nervosa"
+    },
+    "trato": {
+        "descricao": "Acúmulo de fi bras nervosas com origem e término comuns. Nele também podem transitar outras fi bras nervosas"
+    },
+    "fascículo": {
+        "descricao": "Acúmulo bem delimitado de fi bras nervosas. O fascículo pode conter mais de um trato"
+    },
+    "comissura": {
+        "descricao": "Feixe delimitado de fi bras nervosas que une entre si áreas semelhantes de cada hemisfério cerebral"
+    },
+    "lemnisco": {
+        "descricao": "Termo específi co para fi bras nervosas sensitivas ascendentes no tronco encefálico"
+    },
+    "fibra": {
+        "descricao": "Axônio mielínico"
+    },
+    "fibra de associação": {
+        "descricao": "Une áreas corticais do mesmo hemisfério"
+    },
+    "fibra comissural": {
+        "descricao": "Une áreas corticais de ambos os hemisférios"
+    },
+    "fibra de projeção": {
+        "descricao": "Une áreas corticais com áreas subcorticais. Fibras nervosas corticopetais e corticofugais"
+    },
+    "decussação": {
+        "descricao": "Via nervosa cruzada. No seu curso, suas fi bras nervosas cruzam a linha mediana"
+    },
+    "estria": {
+        "descricao": "Durante o desenvolvimento dos hemisférios, seus neurônios crescem mais rapidamente e separam áreas celulares preexistentes. Tomam a aparência de uma fi ta"
+    },
+    "formação reticular": {
+        "descricao": "Células nervosas dispersas, fi bras nervosas e sinapses, com apenas poucos centros. Infl uencia, entre outros, os movimentos, a circulação, a respiração e o ritmo circadiano (ritmo sono-vigília)"
+    },
+    "epêndima": {
+        "descricao": "Revestimento celular das cavidades do sistema ner voso central (sistema ventricular)"
+    },
+    "cerebelo": {
+        "descricao": ""
+    },
+    "fissuras do cerebelo": {
+        "descricao": "Sulcos ramifi cados situados profundamente entre giros do cerebelo"
+    },
+    "folhas do cerebelo": {
+        "descricao": "Giros do cerebelo separados por fi ssuras"
+    },
+    "hemisfério do cerebelo (h ii-h x)": {
+        "descricao": "Cada uma das metades do cerebelo"
+    },
+    "valécula do cerebelo": {
+        "descricao": "Sulco inferior mediano profundo situado entre os hemisférios direito e esquerdo. Nela se encaixa o bulbo"
+    },
+    "verme do cerebelo (i-x)": {
+        "descricao": "Parte ímpar do cerebelo, entre os hemisférios. Parte fi logenética antiga"
+    },
+    "telencéfalo. o cérebro": {
+        "descricao": "Deriva do prosencéfalo"
+    },
+    "hemisfério cerebral": {
+        "descricao": "Cada uma das metades do cérebro"
+    },
+    "pálio": {
+        "descricao": "O córtex cerebral. A parte dos hemisférios cerebrais que envolve a maior parte do tronco encefálico"
+    },
+    "giros do cérebro": {
+        "descricao": "Circunvoluções cerebrais, com aproximadamente 1 cm de largura"
+    },
+    "lobos do cérebro": {
+        "descricao": "As quatro divisões (lobos) do telencéfalo: lobos frontal, parietal, temporal e occipital"
+    },
+    "sulcos do cérebro": {
+        "descricao": "Fendas entre os giros do cérebro"
+    },
+    "fissura longitudinal do cérebro": {
+        "descricao": "Fenda mediana, longa e profunda, situada entre os hemisférios direito e esquerdo do cérebro. Contém a foice do cérebro"
+    },
+    "fissura transversa do cérebro fissura telediencefálica": {
+        "descricao": "Fenda situada sob o corpo caloso e o fórnice, assim como sobre o tálamo e o teto do terceiro ventrículo"
+    },
+    "fossa lateral do cérebro": {
+        "descricao": "Espaço na profundidade do sulco lateral"
+    },
+    "margem superior": {
+        "descricao": "Margem superior de um hemisfério, entre a face súpero-lateral e a face inferior"
+    },
+    "margem ínfero-medial": {
+        "descricao": "Margem inferior e lateral de um hemisfério, entre a face súpero-lateral e a face inferior"
+    },
+    "margem ínfero-lateral": {
+        "descricao": "Margem inferior e medial de um hemisfério, entre a face inferior e a face medial"
+    },
+    "gânglio": {
+        "descricao": "Acúmulo de corpos de células nervosas e, portanto, um espessamento macroscópico de um nervo"
+    },
+    "cápsula do gânglio": {
+        "descricao": "Tecido conectivo externo (envoltório) de um gânglio"
+    },
+    "estroma do gânglio": {
+        "descricao": "Tecido conectivo interno de um gânglio"
+    },
+    "gânglio craniospinal sensitivo": {
+        "descricao": "Termo coletivo para os dois gânglios descritos a seguir"
+    },
+    "gânglio sensitivo de nervo espinal": {
+        "descricao": "Gânglio pertencente à raiz posterior"
+    },
+    "gânglio sensitivo de nervo craniano": {
+        "descricao": "Gânglio, equivalente ao espinal, dos nervos cranianos.nal, na seqüência, não estão assinalados os seguintes termos: cerebelo vestibular, cerebelo espinal, cerebelo cortical, arquicerebelo, paleocerebelo e neocerebelo.parte, menor, é o diencéfalo.dos, o lobo insular e o lobo límbico. Neste caso, o autor se refere apenas aos lobos visíveis externamente"
+    },
+    "gânglio visceral": {
+        "descricao": "Gânglio do sistema nervoso autônomo"
+    },
+    "fibras nervosas pré-ganglionares": {
+        "descricao": "Fibras nervosas mielínicas que se dirigem para os gânglios dos ner vos viscerais"
+    },
+    "fibras nervosas pós-ganglionares": {
+        "descricao": "Fibras nervosas amielínicas dos gânglios viscerais que se dirigem para as vísceras"
+    },
+    "gânglio simpático": {
+        "descricao": "Representado, entre outros, principalmente pelo tronco simpático"
+    },
+    "gânglio parassimpático": {
+        "descricao": "Como, por exemplo, o gânglio ciliar"
+    },
+    "nervo": {
+        "descricao": ""
+    },
+    "endoneuro": {
+        "descricao": "Tecido conectivo frouxo que se estende entre as membranas basais dos neuritos"
+    },
+    "perineuro": {
+        "descricao": "Tecido conectivo que envolve os feixes de neuritos de um nervo periférico, que consiste em lamelas concêntricas de células epitelióides de tecido conectivo. Barreira de difusão"
+    },
+    "epineuro": {
+        "descricao": "Tecido conectivo que envolve externamente um nervo"
+    },
+    "fibras nervosas aferentes": {
+        "descricao": "Fibras nervosas que penetram no sistema nervoso central"
+    },
+    "fibras nervosas eferentes": {
+        "descricao": "Fibras nervosas que saem do sistema nervoso central"
+    },
+    "fibras nervosas somáticas": {
+        "descricao": "São opostas aos nervos do sistema nervoso autônomo, isto é, aos nervos viscerais"
+    },
+    "fibras nervosas viscerais": {
+        "descricao": "Fibras dos nervos viscerais"
+    },
+    "nervo motor": {
+        "descricao": "Nervo que tem fi bras  nervosas apenas para a musculatura. Fibras nervosas aferentes, por exemplo, dos fusos musculares, não são consideradas nesta denominação"
+    },
+    "nervo sensitivo": {
+        "descricao": "Contém fi bras nervosas aferentes que se dirigem ao sistema nervoso central partindo das terminações nervosas. Na língua alemã, a habitual diferença entre sensitivo e sensorial não aparece na Terminologia Anatômica. O termo sensorial, em alemão, refere-se à aferência de áreas restritas como, por exemplo, nariz, olho, orelha e áreas gustativas"
+    },
+    "nervo misto": {
+        "descricao": "Nervo com fi bras motoras e sensitivas. Mas o termo pode também signifi car nervo com parte somáti ca e parte visceral"
+    },
+    "ramo cutâneo": {
+        "descricao": "Nervo ou ramo que se dirige para a pele"
+    },
+    "ramo articular": {
+        "descricao": "Nervo ou ramo que se dirige para uma articulação"
+    },
+    "ramo muscular": {
+        "descricao": "Nervo ou ramo que se dirige para os músculos"
+    },
+    "nervo espinal": {
+        "descricao": "Origina-se da união de uma raiz anterior e uma raiz posterior"
+    },
+    "radículas": {
+        "descricao": "Delgadas fi bras nervosas eferentes e aferentes da medula espinal: reúnem-se para formar, respectivamente, as raízes anterior e posterior de um nervo espinal"
+    },
+    "raiz anterior": {
+        "descricao": "Raiz motora"
+    },
+    "raiz posterior": {
+        "descricao": "Raiz sensitiva"
+    },
+    "tronco do nervo espinal": {
+        "descricao": "Parte entre a união das duas raízes e a emergência do primeiro ramo"
+    },
+    "ramo meníngeo": {
+        "descricao": "Origina-se anteriormente no nervo espinal e, através do forame intervertebral, se volta em direção da meninge espinal, onde se une com outros ramos meníngeos para formar uma rede. É sensitivo e simpático"
+    },
+    "ramo comunicante": {
+        "descricao": "Ramo de ligação entre o nervo espinal e o tronco simpático"
+    },
+    "ramo anterior": {
+        "descricao": "Ramo mais espesso do nervo espinal. Com outros segmentos adjacentes, ele pode formar um plexo. Na região torácica, origina os nervos intercostais"
+    },
+    "ramo posterior": {
+        "descricao": "Ramo mais delgado para a pele e para a musculatura do dorso"
+    },
+    "cauda eqüina": {
+        "descricao": "Conjunto das raízes descendentes dos nervos espinais, a partir de L1 ou L2, com o fi lamento terminal"
+    },
+    "plexo nervoso espinal": {
+        "descricao": "Rede nervosa presente nas regiões cervical, lombar e sacral, da qual se originam os nervos para os membros"
+    },
+    "nervo craniano": {
+        "descricao": ""
+    },
+    "nervo visceral": {
+        "descricao": "Nervo para o suprimento das vísceras"
+    },
+    "ramo visceral": {
+        "descricao": "Ramo nervoso para o suprimento das vísceras"
+    },
+    "plexo autônomo": {
+        "descricao": ""
+    },
+    "plexo visceral": {
+        "descricao": "Plexo do sistema nervoso autônomo"
+    },
+    "plexo periarterial": {
+        "descricao": "Rede de nervos situada na túnica externa (adventícia) das artérias"
+    },
+    "nervos dos vasos": {
+        "descricao": "Anatômica Internacional, não consta na tradução para a língua portuguesa.vo (sensibilidade somática ou visceral geral) e sensorial (sensibilidade somática ou visceral especial), cujos signifi cados devem ser distinguidos e utilizados. Na língua portuguesa, os dois termos são sinônimos"
+    },
+    "ossos": {
+        "descricao": ""
+    },
+    "neurocrânio": {
+        "descricao": "Parte do crânio que contém o encéfalo"
+    },
+    "viscerocrânio": {
+        "descricao": "Parte do crânio que contém a face. O limite com o neurocrânio é uma linha que inicia na raiz do nariz, passa sobre a margem superior da órbita e atinge o poro acústico externo"
+    },
+    "condrocrânio": {
+        "descricao": "Embriologicamente, parte cartilagínea do crânio, a futura base do crânio"
+    },
+    "desmocrânio": {
+        "descricao": "Conjunto dos ossos do crânio que se formam por meio de ossifi cação direta"
+    },
+    "periósteo externo do crânio": {
+        "descricao": "Periósteo da superfície externa do crânio"
+    },
+    "norma frontal": {
+        "descricao": "Norma occipitalNorma verticalSecção transversal de segmento da calváriaSecção horizontal esquemática através da fossapterigopalatinaCrânio (vista lateral esquerda)Detalhe da norma lateralCrânio de recém-nascido(vista lateral direita)Calvária (vista interna)Crânio de recém-nascido (vista superior)"
+    },
+    "násio": {
+        "descricao": "Ponto médio da interseção do frontal e o osso nasal"
+    },
+    "norma vertical": {
+        "descricao": "Vista superior do crânio"
+    },
+    "occipício": {
+        "descricao": "Nuca C, F"
+    },
+    "vértice": {
+        "descricao": "Ponto mediano mais elevado da calvária"
+    },
+    "bregma": {
+        "descricao": "Ponto de encontro das suturas sagital e coronal"
+    },
+    "norma occipital": {
+        "descricao": "Vista posterior do crânio"
+    },
+    "lambda": {
+        "descricao": "Ponto de encontro das suturas lambdóidea e sagital"
+    },
+    "ínio": {
+        "descricao": "Ponto mais saliente da protu berância occipital externa. Ponto de medida antropométrica"
+    },
+    "norma lateral": {
+        "descricao": "Vista lateral do crânio"
+    },
+    "ptério": {
+        "descricao": "Área de encontro dos ossos frontal, parietal, temporal e esfenóide"
+    },
+    "astério": {
+        "descricao": "Ponto de encontro das suturas lambdóidea, parietomastóidea e occipitomastóidea"
+    },
+    "gônio": {
+        "descricao": "Ponto no ângulo da mandíbula localizado mais inferior, posterior e lateralmente"
+    },
+    "fossa temporal": {
+        "descricao": "Fossa rasa situada na parede lateral do crânio, das linhas temporais até o nível da crista infratemporal e, lateralmente, até a margem inferior do arco zigomático"
+    },
+    "arco zigomático": {
+        "descricao": "Formado pela união do processo zigo mático do temporal com o processo temporal do zigomático"
+    },
+    "fossa infratemporal": {
+        "descricao": "Continuação inferior da fossa temporal, que se estende medialmente até o processo pterigóide. É preenchida pela parte inferior do músculo temporal, músculo pterigóideo lateral, vasos e nervos"
+    },
+    "fossa pterigopalatina": {
+        "descricao": "Continuação medial da fossa infratemporal, entre o túber da maxila, a lâmina perpendicular do palatino e o processo pterigóideo. Inferiormente, a fossa pterigopalatina se estreita para formar o canal palatino maior"
+    },
+    "fissura pterigomaxilar": {
+        "descricao": "Variável, geralmente é uma ligação entre a fossa infratemporal e a fossa pterigopalatina, estando limitada pelo túber da maxila e pela lâmi na lateral do processo pterigóide"
+    },
+    "fontículos do crânio": {
+        "descricao": "Lacunas obliteradas por membrana entre os ossos do crânio infantil"
+    },
+    "fontículo anterior": {
+        "descricao": "Lacuna romboidal localizada anterior mente na sutura sagital entre os esboços dos ossos temporal e frontal"
+    },
+    "o": {
+        "descricao": "-3o anos de vida"
+    },
+    "fontículo posterior": {
+        "descricao": "Lacuna triangular na união das suturas sagital e lambdóidea, e também entre os temporais e o occipital. Oblitera-se por volta do 3o mês após o nascimento"
+    },
+    "fontículo ântero-lateral": {
+        "descricao": "Lacuna lateral no crânio, entre os ossos frontal, parietal, temporal e esfenóide"
+    },
+    "fontículo póstero-lateral": {
+        "descricao": "Lacuna lateral entre os ossos parietal, occipi tal e temporal"
+    },
+    "calvária": {
+        "descricao": "Longitudinal e transversalmente, o teto abobadado do crânio. É formada pela escama frontal, ossos parietais e parte superior da escama occipital"
+    },
+    "lâmina externa": {
+        "descricao": "Lâmina externa da calvária, que corresponde à substância compacta"
+    },
+    "díploe": {
+        "descricao": "Parte óssea que corresponde à substância esponjosa, entre as lâminas externa e interna, especialmen te nos ossos do crânio"
+    },
+    "canais diplóicos": {
+        "descricao": "Largos canais venosos na díploe"
+    },
+    "lâmina interna": {
+        "descricao": "Lâmina interna da calvária que corresponde à substância compacta"
+    },
+    "sulco do seio sagital superior": {
+        "descricao": "Sulco raso para o seio"
+    },
+    "fovéolas granulares (pacchioni)": {
+        "descricao": "Fossetas ocupadas pelas granulações aracnóideas"
+    },
+    "sulcos venosos": {
+        "descricao": "Sulcos ocasionais para o percurso de veias, na parede interna do parietal"
+    },
+    "sulcos arteriais": {
+        "descricao": "Sulcos na parede interna do crânio, em especial aqueles para a artéria meníngea média e seus ramos"
+    },
+    "osso sutural": {
+        "descricao": ""
+    },
+    "do crânio": {
+        "descricao": ""
+    },
+    "base do crânio": {
+        "descricao": ""
+    },
+    "base interna do crânio": {
+        "descricao": "Face interna da base do crânio"
+    },
+    "fossa anterior do crânio": {
+        "descricao": "Estende-se da parede do frontal até a asa menor do esfenóide"
+    },
+    "impressões dos giros": {
+        "descricao": "Sulcos planos que correspon dem aos giros do cérebro"
+    },
+    "fossa média do crânio": {
+        "descricao": "Estende-se da asa menor do esfenóide até a margem superior da parte petrosa do temporal"
+    },
+    "fossa posterior do crânio": {
+        "descricao": "Estende-se da margem superior da parte petrosa do temporal até a parede do occipital"
+    },
+    "clivo": {
+        "descricao": "Segmento de osso que desce posteriormente entre a sela turca e o forame magno. É formado pelo occipital e esfenóide"
+    },
+    "fissura esfenopetrosa": {
+        "descricao": "Continuação medial da fi ssura petroescamosa. Sua extensão forma o forame lacerado. Passagem para o nervo petroso menor. Emergência craniana da corda do tímpano"
+    },
+    "fissura petroccipital": {
+        "descricao": "Localiza-se medialmente, continuando o forame jugular, entre a parte petrosa do temporal e o occipital"
+    },
+    "base externa do crânio": {
+        "descricao": "Face externa da base do crânio"
+    },
+    "forame jugular": {
+        "descricao": "Orifício coberto com tecido fi broso, dividido entre o occipital e a parte petrosa do temporal. Desembocadura do seio sigmóideo e do seio petroso infe rior. Passagem para a veia jugular interna e para os nervos IX, X e XI"
+    },
+    "forame lacerado": {
+        "descricao": "Orifício de limites irregulares, coberto com cartilagem fi brosa, situado no meio da fossa do crânio, entre o ápice da parte petrosa do temporal e o esfenóide. Passagem para os nervos petroso profundo e petroso maior"
+    },
+    "palato ósseo": {
+        "descricao": ""
+    },
+    "canal palatino maior": {
+        "descricao": "Canal para a artéria palatina descendente e o nervo palatino maior, formado pelo palatino e pela maxila"
+    },
+    "forame palatino maior": {
+        "descricao": "Localiza-se próximo à margem posterior do palato ósseo, entre o palatino e a maxila. Término do canal palatino maior"
+    },
+    "forames palatinos menores": {
+        "descricao": "Desembocaduras dos canais palatinos menores"
+    },
+    "fossa incisiva": {
+        "descricao": "Fosseta do tamanho da cabeça de um pali to de fósforo, obliterada por uma lâmina epitelial, na qual desemboca o canal incisivo com seu forame incisivo"
+    },
+    "canal incisivo": {
+        "descricao": "Inicia-se no soalho da cavidade nasal, ao lado do processo vaginal do esfenóide, e desemboca no teto da cavidade oral, na fossa incisiva"
+    },
+    "forames incisivos": {
+        "descricao": "De dois a quatro orifícios de desembocadura dos canais incisivos"
+    },
+    "toro palatino": {
+        "descricao": "Elevação longitudinal inconstante, na linha mediana do palato duro, que se projeta em direção à cavidade oral"
+    },
+    "canal palatovaginal": {
+        "descricao": "Canal estreito entre o processo vaginal do esfe nóide e o processo esfenoidal do palatino, para a passagem de um ramo da artéria maxi lar e para o ramo faríngeo do gânglio pterigopalatino. "
+    },
+    "canal vomerovaginal": {
+        "descricao": "Canal estreito entre o processo vaginal do esfe nóide e o vômer, para a passagem de um ramo da artéria esfenopalatina. "
+    },
+    "canal vomerorrostral": {
+        "descricao": "Canalículo entre o vômer e o rostro esfenoidal"
+    },
+    "órbita": {
+        "descricao": "Cavidade óssea com o bulbo do olho e suas estruturas acessórias"
+    },
+    "cavidade orbital": {
+        "descricao": "Cavidade da órbita"
+    },
+    "ádito orbital": {
+        "descricao": "Abertura anterior da órbita"
+    },
+    "margem orbital": {
+        "descricao": "Margem da órbita"
+    },
+    "margem supra-orbital": {
+        "descricao": "Margem superior do ádito orbital"
+    },
+    "margem infra-orbital": {
+        "descricao": "Margem inferior do ádito orbital"
+    },
+    "margem lateral": {
+        "descricao": "Margem lateral do ádito orbital"
+    },
+    "margem medial": {
+        "descricao": "Margem medial do ádito orbital"
+    },
+    "base do crânio (vista interna)": {
+        "descricao": "Base do crânio (vista externa)Palato duro (vista inferior)Contorno da órbita direita"
+    },
+    "parede superior": {
+        "descricao": "Teto da órbita"
+    },
+    "parede inferior": {
+        "descricao": "Soalho da órbita"
+    },
+    "parede lateral": {
+        "descricao": "Parede lateral da órbita"
+    },
+    "parede medial": {
+        "descricao": "Parede medial da órbita"
+    },
+    "forame etmoidal anterior": {
+        "descricao": "Orifício anterior na parede medial da órbita, entre o frontal e o etmóide, para a pas sagem do nervo e dos vasos etmoidais anteriores provenientes da fossa anterior do crânio"
+    },
+    "forame etmoidal posterior": {
+        "descricao": "Orifício posterior na parede medial da órbita, entre o frontal e o etmóide, para a passagem do nervo e dos vasos etmoidais posteriores"
+    },
+    "sulco lacrimal": {
+        "descricao": "Início em forma de sulco do canal lacrimonasal"
+    },
+    "fossa do saco lacrimal": {
+        "descricao": "Depressão para o saco lacrimal no início do canal lacrimonasal"
+    },
+    "fissura orbital superior": {
+        "descricao": "Fenda superior da órbita, entre as asas maior e menor do esfenóide, ligando a fossa anterior do crânio à órbita. Através dela passam: os nervos oftálmi co, oculomotor, troclear e abducente e a veia oftálmica superior"
+    },
+    "fissura orbital inferior": {
+        "descricao": "Fenda entre a asa maior do esfenóide e a face orbital da maxila, para a passagem do nervo zigomático e do nervo infra-orbital, acompanhado pelos respectivos vasos"
+    },
+    "canal lacrimonasal": {
+        "descricao": ""
+    },
+    "cavidade nasal óssea": {
+        "descricao": "Parte óssea da cavidade nasal"
+    },
+    "septo nasal ósseo": {
+        "descricao": "Formado pelo vômer e pela lâmina perpendicular do etmóide"
+    },
+    "abertura piriforme": {
+        "descricao": "Contorno da abertura nasal anterior no crânio ósseo, em forma de pêra"
+    },
+    "meato nasal superior": {
+        "descricao": "Espaço acima da concha nasal média"
+    },
+    "meato nasal médio": {
+        "descricao": "Espaço entre as conchas nasais média e infe rior"
+    },
+    "meato nasal inferior": {
+        "descricao": "Espaço abaixo da concha nasal inferior"
+    },
+    "óstio do canal lacrimonasal": {
+        "descricao": "Orifício do canal lacrimonasal no meato nasal inferior"
+    },
+    "meato nasal comum": {
+        "descricao": "Parte da cavidade nasal entre as conchas nasais e o septo nasal"
+    },
+    "recesso esfenoetmoidal": {
+        "descricao": "Espaço, em forma de fenda, acima da concha nasal superior"
+    },
+    "meato nasofaríngeo": {
+        "descricao": "Parte da cavidade nasal que se estende da mar gem posterior das conchas nasais até os cóanos"
+    },
+    "cóano": {
+        "descricao": "Abertura nasal posterior. As duas aberturas entre a cavidade nasal e a parte nasal da faringe"
+    },
+    "forame esfenopalatino": {
+        "descricao": "Orifício superior na fossa pterigopalatina que conduz à cavidade nasal. A maior parte é formada pelo palatino, e a menor, pelo esfenóide"
+    },
+    "parede lateral da cavidade nasal": {
+        "descricao": "com os seios frontal e esfenoidalCavidade nasal óssea direita"
+    }
+}
