@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            color: #303030;
+            background: linear-gradient(to bottom, #fbb6d0, #da0b57);
+        }
+
+        .navbar-nav a:hover {
+            color: #fbb6d0;
+        }
+
+        .navbar-brand {
+            font-size: 2rem;
+        }
+
+        .container {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            background: linear-gradient(to bottom, #da0b57, #fbb6d0);
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="/">Home </a>
+                <a class="nav-item nav-link" href="/terms">Terms</a>
+                <a class="nav-item nav-link" href="/about">About</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-5">
+        {% block body %}
+        {% endblock %}
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
