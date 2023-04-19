@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+<div style="font-size: 18px; line-height: 1.5em; padding: 20px;">
+    
+    <p><strong>Termo em Português:</strong> {{designation}}</p>
+
+    <p><strong>Descrição:</strong> {{value["descricao"]}}</p>
+
+    <p><strong>Designação:</strong> {{value["designacao"]}}</p>
+
+    <p><strong>Termo em Inglês:</strong> {{value["ingles"]}}</p>
+
+    <p><strong>Termo em Espanhol:</strong> {{value["espanhol"]}}</p>
+
+</div>
+
+{% endblock %}
