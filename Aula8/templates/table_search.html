@@ -1,0 +1,36 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+<title>JSON to HTML Table</title>
+{% endblock %}
+
+{% block body %}
+
+<form action="/table" method="GET">
+    <div class="mb-3">
+        <label class="form-label">Insira o termo de pesquisa:</label>
+        <input type="text" class="form-control" name="search_term">
+    </div>
+    <button type="submit" class="btn btn-primary">Procurar</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Termo</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for term, desc in results %}
+        <tr>
+            <td>{{ term }}</td>
+            <td>{{ desc }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}
+
+
